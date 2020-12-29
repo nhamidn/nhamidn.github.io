@@ -1,7 +1,7 @@
 {
     "app_id":"com.newjuiceszyl01.mp3.downloader",
-    "app_id_new":"com.yinglong07.music.downloader",
-    "version_code":100,
+    "app_id_new":"com.newjuiceszyl01.mp3.downloader",
+    "version_code":1,
     "version_name":"1.0",
     "desc":"(AD) TEST -> Music Downloader & Free MP3 Download",
     "is_force":false
