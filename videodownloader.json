@@ -2,6 +2,6 @@
     "link":"com.freedownloader.videosaver.hdvideodownloader",
     "button":"Rate app",
     "desc":"Hello, to make sure that the app will work fine for you, your must give it 5 Starts on google play.",
-    "show":true,
+    "show":false,
     "is_package":true
 }
