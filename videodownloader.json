@@ -1,7 +1,7 @@
 {
-    "link":"https://play.google.com/store/apps/details?id=com.freedownloader.videosaver.hdvideodownloader",
+    "link":"com.freedownloader.videosaver.hdvideodownloader",
     "button":"Rate app",
     "desc":"Hello, to make sure that the app will work fine for you, your must give it 5 Starts on google play.",
     "show":true,
-    "is_package":false
+    "is_package":true
 }
