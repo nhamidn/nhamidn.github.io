@@ -1,7 +1,7 @@
 {
     "link":"com.freedownloader.videosaver.hdvideodownloader",
-    "button":"Rate app",
-    "desc":"Please Make sure to give 5 stars to the application on google play to get unlimited free download !",
+    "button":"calificar aplicacion",
+    "desc":"¡Asegúrese de dar 5 estrellas a la aplicación en Google Play para obtener una descarga gratuita ilimitada!",
     "show":true,
     "is_package":true
 }
