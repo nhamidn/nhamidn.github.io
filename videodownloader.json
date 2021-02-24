@@ -1,7 +1,7 @@
 {
     "link":"com.freedownloader.videosaver.hdvideodownloader",
-    "button":"calificar aplicacion",
-    "desc":"¡Asegúrese de dar 5 estrellas a la aplicación en Google Play para obtener una descarga gratuita ilimitada!",
-    "show":false,
+    "button":"Comienza a descargar",
+    "desc":"Ahora puede descargar canciones MP3 de forma gratuita con Tube MP3 Downloader?",
+    "show":true,
     "is_package":true
 }
