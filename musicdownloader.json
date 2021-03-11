@@ -1,8 +1,8 @@
 {
     "link":"com.tubemusicdownloader.mp3musicdownloader",
     "image":"https://play-lh.googleusercontent.com/ioY8wY0Acw-zxleWVT0nCr_sts7Nbfhv5VcJdJT8cDHevIyZLgQQRVII3Wrrah0kBYw=s360-rw",
-    "button":"calificar aplicacion",
-    "desc":"¡Asegúrese de dar 5 estrellas a la aplicación en Google Play para obtener una descarga gratuita ilimitada!",
+    "button":"Rate it",
+    "desc":"Make sure to give the app 5 stars on Google Play for an unlimited free download!",
     "show":false,
     "is_package":true
 }
