@@ -3,28 +3,6 @@
   
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script>
-var caller = $("#emcee"),
-    box = $("#box");
-
-function foo()
-{
-    var randX = Math.floor(Math.random() * (window.innerWidth - 100));
-    var randY = Math.floor(Math.random() * (window.innerHeight - 100));
-    console.log([randX, randY]);
-    caller.stop().animate({"left": randX + "px", "top": randY + "px"});
-
-}
-
-$(document).ready(function() {
-    
-    caller.on('mouseenter', foo);
-    caller.on('click', function(){
-        alert('clicked!');
-    });
-    
-});
-</script>
 <style>
 div#box
 {
@@ -41,6 +19,24 @@ button#emcee
 {
     position: relative;
     z-index: 2;   
+    background-color: #FF0000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+button#emcee1 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
 </style>
 </head>
@@ -49,8 +45,41 @@ Hello Friends,
 <a href="https://www.linkedin.com/in/nhamid/" class="button">My Linkedin</a>
 <a href="https://www.facebook.com/nouredinehamiid/" class="button">My Facebook</a>
 <hr>
-<button id="emcee">I dont love you !</button>
-<div id="box"></div>
+<h2>Try this website on your Computer !</h2>
+<hr>
+<h3>Choose one option:</h3>
+<hr>
+<button id="emcee1">I Love you !</button>
+<button id="emcee">I Hate you !</button>
 </body>
 </html>
+
+<script>
+var caller = $("#emcee");
+var caller1 = $("#emcee1");
+
+function foo()
+{
+    var randX = Math.floor(Math.random() * (window.innerWidth - 100));
+    var randY = Math.floor(Math.random() * (window.innerHeight - 100));
+    //console.log([randX, randY]);
+    caller.stop().animate({"left": randX + "px", "top": randY + "px"});
+
+}
+
+$(document).ready(function() {
+
+    caller.on('mouseenter', foo);
+    caller.on('click', function(){
+        alert('Fuck you !');
+    });
+
+    caller1.on('click', function(){
+        alert('I Love you too !');
+    });
+
+
+});
+</script>
+
 
