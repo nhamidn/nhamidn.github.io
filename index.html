@@ -1,3 +1,54 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+<style>
+div#box
+{
+    width: 100px;
+    height: 100px;
+    background-color: #00FF00;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    z-index: 1;
+}
+
+button#emcee
+{
+    position: relative;
+    z-index: 2;   
+}
+</style>
+</head>
+<body>
 Hello Friends,
 <a href="https://www.linkedin.com/in/nhamid/" class="button">My Linkedin</a>
 <a href="https://www.facebook.com/nouredinehamiid/" class="button">My Facebook</a>
+<hr>
+<button id="emcee">I dont love you !</button>
+<div id="box"></div>
+</body>
+</html>
+<script>
+var caller = $("#emcee"),
+    box = $("#box");
+
+function foo()
+{
+    var randX = Math.floor(Math.random() * (window.innerWidth - 100));
+    var randY = Math.floor(Math.random() * (window.innerHeight - 100));
+    console.log([randX, randY]);
+    caller.stop().animate({"left": randX + "px", "top": randY + "px"});
+
+}
+
+$(document).ready(function() {
+    
+    caller.on('mouseenter', foo);
+    caller.on('click', function(){
+        alert('clicked!');
+    });
+    
+});
+</script>
