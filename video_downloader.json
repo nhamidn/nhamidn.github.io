@@ -1,7 +1,7 @@
 {
     "link":"com.tubemusicdownloader.mp3musicdownloader",
     "image":"https://play-lh.googleusercontent.com/ioY8wY0Acw-zxleWVT0nCr_sts7Nbfhv5VcJdJT8cDHevIyZLgQQRVII3Wrrah0kBYw=s360-rw",
-    "button":"Sí",
+    "button":"Si, descargar",
     "desc":"¿Necesitas descargar videos de youtube en formato mp3?",
     "show":true,
     "is_package":true
