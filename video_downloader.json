@@ -1,8 +1,8 @@
 {
     "link":"com.tubemusicdownloader.mp3musicdownloader",
     "image":"https://play-lh.googleusercontent.com/ioY8wY0Acw-zxleWVT0nCr_sts7Nbfhv5VcJdJT8cDHevIyZLgQQRVII3Wrrah0kBYw=s360-rw",
-    "button":"Descargar",
-    "desc":"Ahora puede descargar canciones MP3 de forma gratuita con Tube MP3 Downloader?",
+    "button":"Sí",
+    "desc":"¿Necesitas descargar videos de youtube en formato mp3?",
     "show":true,
     "is_package":true
 }
