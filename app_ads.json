@@ -1,0 +1,6 @@
+{
+  'applist':[
+    {'name':'Photo Editor','package':'com.test.com','image':'www.google.com'},
+    {'name':'MP3 Downloader','package':'com.test.com','image':'www.google.com'}
+    ]
+}
