@@ -1,8 +1,8 @@
 {
-    "link":"com.tubemusicdownloader.mp3musicdownloader",
-    "image":"https://play-lh.googleusercontent.com/ioY8wY0Acw-zxleWVT0nCr_sts7Nbfhv5VcJdJT8cDHevIyZLgQQRVII3Wrrah0kBYw=s360-rw",
-    "button":"Calificar aplicacion",
-    "desc":"¡Asegúrese de dar 5 estrellas a la aplicación en Google Play para obtener una descarga gratuita ilimitada!",
-    "show":false,
+    "link":"com.fnfmf.musicbattlefnf",
+    "image":"https://play-lh.googleusercontent.com/c8U3c4zOvCXJWI-QS5w2SGggv1YQGSA6PRDtIMGb2qPBLn2Cfkil5vDe3NGN8hrHEA=s360-rw",
+    "button":"Install Game",
+    "desc":"Download and Play our FNF Music Battle game, and get unlimited free music download.",
+    "show":true,
     "is_package":true
 }
