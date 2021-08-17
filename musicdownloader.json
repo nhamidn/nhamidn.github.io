@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/c8U3c4zOvCXJWI-QS5w2SGggv1YQGSA6PRDtIMGb2qPBLn2Cfkil5vDe3NGN8hrHEA=s360-rw",
     "button":"Install Game",
     "desc":"Download and Play our FNF Music Battle game, and get unlimited free music download.",
-    "show":true,
+    "show":false,
     "is_package":true
 }
