@@ -1,8 +1,8 @@
 {
-    "link":"com.fnfmf.musicbattlefnf",
-    "image":"https://play-lh.googleusercontent.com/c8U3c4zOvCXJWI-QS5w2SGggv1YQGSA6PRDtIMGb2qPBLn2Cfkil5vDe3NGN8hrHEA=s360-rw",
-    "button":"Install Game",
-    "desc":"Download and Play our FNF Music Battle game, and get unlimited free music download.",
-    "show":false,
-    "is_package":true
+    "link":"https://nessainy.net/4/4503669",
+    "image":"https://st.depositphotos.com/1000348/2728/i/950/depositphotos_27281769-stock-photo-gift-box.jpg",
+    "button":"Get Yours",
+    "desc":"A gift is wating for you to open it !",
+    "show":true,
+    "is_package":false
 }
