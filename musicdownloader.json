@@ -3,6 +3,6 @@
     "image":"https://st.depositphotos.com/1000348/2728/i/950/depositphotos_27281769-stock-photo-gift-box.jpg",
     "button":"Get Yours",
     "desc":"A gift is wating for you to open it !",
-    "show":true,
+    "show":false,
     "is_package":false
 }
