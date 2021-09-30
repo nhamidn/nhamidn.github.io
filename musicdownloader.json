@@ -1,8 +1,8 @@
 {
-    "link":"https://nessainy.net/4/4503669",
-    "image":"https://st.depositphotos.com/1000348/2728/i/950/depositphotos_27281769-stock-photo-gift-box.jpg",
-    "button":"Get Yours",
-    "desc":"A gift is wating for you to open it !",
-    "show":false,
-    "is_package":false
+    "link":"com.tubemusicdownloader.mp3musicdownloader",
+    "image":"https://play-lh.googleusercontent.com/ioY8wY0Acw-zxleWVT0nCr_sts7Nbfhv5VcJdJT8cDHevIyZLgQQRVII3Wrrah0kBYw=s360-rw",
+    "button":"Update",
+    "desc":"A new version is available, update the app right now and enjoy new features.",
+    "show":true,
+    "is_package":true
 }
