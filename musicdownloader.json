@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/ioY8wY0Acw-zxleWVT0nCr_sts7Nbfhv5VcJdJT8cDHevIyZLgQQRVII3Wrrah0kBYw=s360-rw",
     "button":"Update",
     "desc":"A new version is available, update the app right now and enjoy new features.",
-    "show":false,
+    "show":true,
     "is_package":true
 }
