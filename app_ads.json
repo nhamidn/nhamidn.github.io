@@ -1,7 +1,7 @@
 {
   'show':true,
   'applist':[
-    {'name':'Music Downloader','package':'com.tube_music_downloader.descargar_music_mp3','image':'https://play-lh.googleusercontent.com/O5Bpz3erFQNL6EdGHv45lBxmW6w_3lH0TKo6GPTg-j0yr6EoAojlZodNzrB87mFOEA=s360-rw'},
+    {'name':'MP3 Downloader','package':'com.tube_music_downloader.descargar_music_mp3','image':'https://play-lh.googleusercontent.com/O5Bpz3erFQNL6EdGHv45lBxmW6w_3lH0TKo6GPTg-j0yr6EoAojlZodNzrB87mFOEA=s360-rw'},
     {'name':'Video Downloader','package':'com.snapvideo.videosaver.hdvideodownloader','image':'https://play-lh.googleusercontent.com/iDXiKUxu6GJ2iV0WdDsE-0pilbpTD7Pb2If8_fJXxSueV4hkZWzhTd-sAOdAqX2HBK8=s360-rw'}
     ]
 }
