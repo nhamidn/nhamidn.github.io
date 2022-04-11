@@ -1,8 +1,8 @@
 {
-    "link":"com.tubemusicdownloader.mp3musicdownloader",
-    "image":"https://play-lh.googleusercontent.com/ioY8wY0Acw-zxleWVT0nCr_sts7Nbfhv5VcJdJT8cDHevIyZLgQQRVII3Wrrah0kBYw=s360-rw",
-    "button":"Update",
-    "desc":"A new version is available, update the app right now and enjoy new features.",
+    "link":"com.video_downloader_app.videosaver.mp4_video_downloader_free",
+    "image":"https://play-lh.googleusercontent.com/7rbbAnUkQVHdsdJBQBNq0uYwyZYAuQkXdEJrWFIE3jE1Q4AkVGnKnRxgLM6z1P4D4cY=s360-rw",
+    "button":"descargar",
+    "desc":"Descarga gratis cualquier video de Internet",
     "show":false,
     "is_package":true
 }
