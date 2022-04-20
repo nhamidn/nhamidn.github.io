@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/rXl-XoHJGHdIap4YGH9YUt89tov1lnptRqSZnnsucO5p-sRVADpU8Zcgg-a74b5a1L4=s360-rw",
     "button":"calificar aplicacion",
     "desc":"¡Asegúrese de dar 5 estrellas a la aplicación en Google Play para obtener una descarga gratuita ilimitada!",
-    "show":true,
+    "show":false,
     "is_package":true
 }
