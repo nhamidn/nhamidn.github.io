@@ -1,1 +1,8 @@
 
+{
+  'show':true,
+  'applist':[
+    {'name':'MP3 Descargador','package':'com.tubemusicdownloader.mp3musicdownloader','image':'https://play-lh.googleusercontent.com/ioY8wY0Acw-zxleWVT0nCr_sts7Nbfhv5VcJdJT8cDHevIyZLgQQRVII3Wrrah0kBYw=s360-rw'},
+    {'name':'MP3 Downloader','package':'com.vitmate.descargar_music_mp3','image':'https://www.mediafire.com/convkey/87e7/z5svgnnh2jxm218zg.jpg'}
+    ]
+}
