@@ -1,8 +1,8 @@
 {
-    "link":"com.mp3descargador.mp3musicdownloader",
-    "image":"https://play-lh.googleusercontent.com/rXl-XoHJGHdIap4YGH9YUt89tov1lnptRqSZnnsucO5p-sRVADpU8Zcgg-a74b5a1L4=s360-rw",
-    "button":"calificar aplicacion",
-    "desc":"¡Asegúrese de dar 5 estrellas a la aplicación en Google Play para obtener una descarga gratuita ilimitada!",
-    "show":false,
+    "link":"com.freedownloader.videosaver.hdvideodownloader",
+    "image":"https://play-lh.googleusercontent.com/scnagRTIalTtXqzc8VasZefHbhlXCVi6kBcBbGsp0841Fv7I9zxb8rtx3TkzO6P-sdA=s360-rw",
+    "button":"Descargar",
+    "desc":"Descarga gratis cualquier video de Internet",
+    "show":true,
     "is_package":true
 }
