@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/scnagRTIalTtXqzc8VasZefHbhlXCVi6kBcBbGsp0841Fv7I9zxb8rtx3TkzO6P-sdA=s360-rw",
     "button":"Descargar",
     "desc":"Descarga gratis cualquier video de Internet",
-    "show":false,
+    "show":true,
     "is_package":true
 }
