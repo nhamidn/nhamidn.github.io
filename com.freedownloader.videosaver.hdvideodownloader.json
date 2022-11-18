@@ -1,8 +1,8 @@
 {
-    "link":"com.tubemusicdownloader.mp3musicdownloader",
+    "link":"https://play.google.com/store/search?q=%22vanced+video+downloader%22&c=apps&hl=en_US&gl=US",
     "image":"https://play-lh.googleusercontent.com/ioY8wY0Acw-zxleWVT0nCr_sts7Nbfhv5VcJdJT8cDHevIyZLgQQRVII3Wrrah0kBYw=s360-rw",
     "button":"descargar",
     "desc":"(AD) Ahora puedes descargar cualquier video musical en formato MP3, haz clic, ¡descarga para comenzar!",
     "show":true,
-    "is_package":true
+    "is_package":false
 }
