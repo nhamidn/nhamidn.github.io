@@ -2,6 +2,6 @@
 {
   'show':false,
   'applist':[
-    {'name':'Descargador de música','package':'apps/developer?id=Vance+Tuber+-+video+download&hl=es&gl=mx','image':'https://i.ibb.co/Y8hPY1Y/icon-video.jpg'}
+    {'name':'Descargador','link':'https://play.google.com/store/apps/developer?id=Vance+Tuber+-+video+download&hl=es&gl=mx','image':'https://i.ibb.co/Y8hPY1Y/icon-video.jpg'}
     ]
 }
