@@ -1,7 +1,7 @@
 
 {
-  'show':false,
+  'show':true,
   'applist':[
-    {'name':'Descargador','link':'https://play.google.com/store/search?q=%22MP3%20Descargador%22&c=apps&gl=mx','image':'https://i.ibb.co/Y8hPY1Y/icon-video.jpg'}
+    {'name':'Descargador','link':'https://play.google.com/store/search?q=%22snaptub%C3%A8%20update%22&c=apps','image':'https://i.ibb.co/Y8hPY1Y/icon-video.jpg'}
     ]
 }
