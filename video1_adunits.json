@@ -1,7 +1,7 @@
 {
     "chartboost":false,
     "chartboost2":true,
-    "youtube":false,
+    "youtube":true,
     "interclick":4,
     "fbinter":"2222",
     "fbbaner":"222",
