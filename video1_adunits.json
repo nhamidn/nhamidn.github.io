@@ -5,11 +5,12 @@
     "youtube":false,
     "show_iron":false,
     "interclick":4,
+    "download_click_number":4,
     "fbinter":"2222",
     "fbbaner":"222",
     "inter":"ca-app-pub-3940256099942544/1033173712",
     "native":"ca-app-pub-3940256099942544/2247696110",
     "appopen":"ca-app-pub-3940256099942544/3419835294",
-    "rewarded":"ca-app-pub-3940256099942544/3419835294",
+    "rewarded":"ca-app-pub-3940256099942544/5224354917",
     "appopentmp":"ca-app-pub-2095004284189402/1238010840"
 }
