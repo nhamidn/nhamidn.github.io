@@ -5,7 +5,7 @@
     "youtube":false,
     "show_iron":false,
     "hide_notloaded_native":false,
-    "interclick":5,
+    "interclick":10,
     "download_click_number":2,
     "fbinter":"2222",
     "fbbaner":"222",
