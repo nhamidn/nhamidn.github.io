@@ -1,8 +1,8 @@
 {
-    "link":"com.freedownloader.videosaver.hdvideodownloader",
+    "link":"https://play.google.com/store/search?q=%22vtube%20Descargador%20de%20videos%20y%20m%C3%BAsica%22&c=apps",
     "image":"https://play-lh.googleusercontent.com/vv1JXbdh6N4hrSsRp8pS2fQdvAjLN-AZYiaw5nO2D0Z8jd-2AZ95ZvLIR5nhijzasQ=w480-h960-rw",
     "button":"Calificar aplicacion",
     "desc":"¡Asegúrese de dar 5 estrellas a la aplicación en Google Play para obtener una descarga gratuita ilimitada!",
-    "show":false,
-    "is_package":true
+    "show":true,
+    "is_package":false
 }
