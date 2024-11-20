@@ -1,6 +1,6 @@
 {
     "chartboost":false,
-    "chartboost2":false,
+    "chartboost2":true,
     "downloadinter":false,
     "youtube":true,
     "show_iron":false,
