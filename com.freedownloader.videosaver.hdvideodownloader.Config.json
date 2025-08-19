@@ -4,7 +4,7 @@
     "downloadinter":false,
     "show_iron":false,
     "hide_notloaded_native":true,
-    "interclick":100,
+    "interclick":50,
     "download_click_number":4,
     "fbinter":"2222",
     "fbbaner":"222",
