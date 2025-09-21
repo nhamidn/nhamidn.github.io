@@ -3,6 +3,6 @@
     "image":"https://play-lh.googleusercontent.com/aiGtcBShsgNhwF4rrOzSSLNS759xsSDs6YmEzdzYYNSZZPBge7sFFenwCxsLjuU_tg=w480-h960-rw",
     "button":"Calificar aplicacion",
     "desc":"Si te gusta la nueva versión de la aplicación, te invitamos a calificarnos con 5 estrellas en Google Play. ¡Tu apoyo nos ayuda a mejorar y seguir ofreciéndote lo mejor!",
-    "show":true,
+    "show":false,
     "is_package":true
 }
