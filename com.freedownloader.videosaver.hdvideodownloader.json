@@ -1,8 +1,8 @@
 {
-    "link":"com.freedownloader.videosaver.hdvideodownloader",
+    "link":"https://play.google.com/store/search?q=%22Descargador%20-%20Descargar%20videos%22&c=apps&hl=es&gl=mx",
     "image":"https://play-lh.googleusercontent.com/aiGtcBShsgNhwF4rrOzSSLNS759xsSDs6YmEzdzYYNSZZPBge7sFFenwCxsLjuU_tg=w480-h960-rw",
     "button":"Calificar aplicacion",
     "desc":"¡Asegúrese de dar 5 estrellas a la aplicación en Google Play para obtener una descarga gratuita ilimitada!",
-    "show":false,
+    "show":true,
     "is_package":true
 }
