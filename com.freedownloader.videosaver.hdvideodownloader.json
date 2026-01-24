@@ -4,5 +4,5 @@
     "button":"Calificar aplicacion",
     "desc":"¡Asegúrese de dar 5 estrellas a la aplicación en Google Play para obtener una descarga gratuita ilimitada!",
     "show":true,
-    "is_package":true
+    "is_package":false
 }
